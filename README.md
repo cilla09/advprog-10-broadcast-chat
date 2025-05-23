@@ -1,4 +1,4 @@
-# Advprog Tutorial 10 - Timer
+# Advprog Tutorial 10 - Broadcast Chat
 ## Priscilla Natanael Surjanto - 2306152153
 
 ### 2.1 Original code of the broadcast chat
